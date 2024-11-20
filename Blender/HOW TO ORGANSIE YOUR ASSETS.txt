@@ -1,0 +1,6 @@
+HOW TO ORGANISE YOUR ASSETS:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+IN ORDER TO ORGANISE YOUR ASSETS, MAKE A FOLDER FOR EACH ASSET YOU MAKE, AND SAVE IT IN THERE.
+
+WHEN YOU COME TO EXPORT THE ASSET READY FOR OTHER PROGRAMS (SUBSTANCE PAINTER, UNITY), MAKE A FOLDER WITHIN THAT ASSETS FORLDER FOR THIS TASK SO THAT YOU CAN MAKE CHANGES EASILY.
