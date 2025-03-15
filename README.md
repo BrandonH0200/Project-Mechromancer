@@ -1,2 +1,2 @@
 # Project-Mechromancer
-Paint Simulator Game Project
+PC + VR Multiplayer Game Project
