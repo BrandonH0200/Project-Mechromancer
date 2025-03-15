@@ -224,7 +224,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d6ccd3d0ef0f1d458e69421dccbdae1, type: 3}
   m_Name: ValveIndexControllerProfile Standalone
   m_EditorClassIdentifier: 
-  m_enabled: 0
+  m_enabled: 1
   nameUi: Valve Index Controller Profile
   version: 0.0.1
   featureIdInternal: com.unity.openxr.feature.input.valveindex
@@ -285,25 +285,25 @@ MonoBehaviour:
   m_Name: Standalone
   m_EditorClassIdentifier: 
   features:
-  - {fileID: -6690742346257611887}
-  - {fileID: 4782183146599790935}
   - {fileID: 773958934357431847}
-  - {fileID: -4122583392201070962}
   - {fileID: -7117511826336808842}
+  - {fileID: -4122583392201070962}
+  - {fileID: -4007366492934063521}
   - {fileID: -5942787238434783848}
+  - {fileID: 613144160413074621}
+  - {fileID: 5085783095819713846}
+  - {fileID: 6554382362179603862}
+  - {fileID: -7145128007066054881}
+  - {fileID: 9032322118839090780}
+  - {fileID: 5924430110261863438}
   - {fileID: -8899730035428061023}
   - {fileID: -6106240302142116666}
-  - {fileID: 5085783095819713846}
-  - {fileID: 43540194064511048}
-  - {fileID: -7145128007066054881}
-  - {fileID: 613144160413074621}
+  - {fileID: 4782183146599790935}
   - {fileID: 3646454993589921751}
-  - {fileID: 5924430110261863438}
-  - {fileID: 9032322118839090780}
   - {fileID: -8142552852723803418}
+  - {fileID: -6690742346257611887}
+  - {fileID: 43540194064511048}
   - {fileID: 8600789884922393528}
-  - {fileID: 6554382362179603862}
-  - {fileID: -4007366492934063521}
   m_renderMode: 1
   m_autoColorSubmissionMode: 1
   m_colorSubmissionModes:
@@ -325,7 +325,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: feeef8d85de8db242bdda70cc7ff5acd, type: 3}
   m_Name: OculusTouchControllerProfile Standalone
   m_EditorClassIdentifier: 
-  m_enabled: 0
+  m_enabled: 1
   nameUi: Oculus Touch Controller Profile
   version: 0.0.1
   featureIdInternal: com.unity.openxr.feature.input.oculustouch
@@ -386,7 +386,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c4b862ee14fb479fbfe5fffe655d3ed3, type: 3}
   m_Name: MetaQuestTouchProControllerProfile Standalone
   m_EditorClassIdentifier: 
-  m_enabled: 0
+  m_enabled: 1
   nameUi: Meta Quest Touch Pro Controller Profile
   version: 0.0.1
   featureIdInternal: com.unity.openxr.feature.input.metaquestpro
@@ -406,7 +406,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 274c02963f889a64e90bc2e596e21d13, type: 3}
   m_Name: HTCViveControllerProfile Standalone
   m_EditorClassIdentifier: 
-  m_enabled: 0
+  m_enabled: 1
   nameUi: HTC Vive Controller Profile
   version: 0.0.1
   featureIdInternal: com.unity.openxr.feature.input.htcvive
@@ -446,7 +446,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2b7365b139f7aec43b23d26b7a48b5a6, type: 3}
   m_Name: MetaQuestTouchPlusControllerProfile Standalone
   m_EditorClassIdentifier: 
-  m_enabled: 0
+  m_enabled: 1
   nameUi: Meta Quest Touch Plus Controller Profile
   version: 0.0.1
   featureIdInternal: com.unity.openxr.feature.input.metaquestplus
